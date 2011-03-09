@@ -4,6 +4,7 @@ gem 'rails', '3.0.3'
 gem 'dynamic_form'
 gem 'acts_as_tree'
 gem 'paperclip'
+gem 'mysql', '~> 2.8.1'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
